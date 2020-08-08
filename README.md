@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### 🔭 I’m currently working on ...
+
+- [compare-image-slider](https://github.com/johnwalley/compare-image-slider)
+
+#### 👯 I’m looking to collaborate on ...
+
+- [d3-tube-map](https://github.com/johnwalley/d3-tube-map)
+
 <!--
 **johnwalley/johnwalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
