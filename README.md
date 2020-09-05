@@ -3,6 +3,7 @@
 #### 🔭 I’m currently working on ...
 
 - [compare-image-slider](https://github.com/johnwalley/compare-image-slider)
+- [d3-simple-slider[(https://github.com/johnwalley/d3-simple-slider)
 
 #### 👯 I’m looking to collaborate on ...
 
