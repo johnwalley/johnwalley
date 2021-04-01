@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
 
-- [console-charts](https://github.com/vegaprotocol/console-charts)
+- [pennant](https://github.com/vegaprotocol/pennant)
 - [compare-image-slider](https://github.com/johnwalley/compare-image-slider)
 - [d3-simple-slider](https://github.com/johnwalley/d3-simple-slider)
 
