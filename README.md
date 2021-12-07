@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working on ...
 
 - [pennant](https://github.com/vegaprotocol/pennant)
-- [compare-image-slider](https://github.com/johnwalley/compare-image-slider)
+- [allotment](https://github.com/johnwalley/allotment)
 - [d3-simple-slider](https://github.com/johnwalley/d3-simple-slider)
 
 #### 👯 I’m looking to collaborate on ...
