@@ -2,7 +2,6 @@
 
 #### 🔭 I’m currently working on ...
 
-- [pennant](https://github.com/vegaprotocol/pennant)
 - [allotment](https://github.com/johnwalley/allotment)
 - [d3-simple-slider](https://github.com/johnwalley/d3-simple-slider)
 
